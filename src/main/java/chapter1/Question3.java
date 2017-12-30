@@ -1,5 +1,11 @@
 package chapter1;
 
+/**
+ * URLify: Write a method to replace all spaces in the string with '%20'.You
+ * may assume that the string has sufficient space at the end to hold the
+ * additional characters, and that you are given the "true" length of the
+ * string.
+ */
 public class Question3 {
   public static void main(String[] args) {
     char[] input = "Mr John Smith    ".toCharArray();

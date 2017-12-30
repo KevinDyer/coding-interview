@@ -3,6 +3,10 @@ package chapter1;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Check Permutations: Given two strings, determine if one is a permutation of
+ * the other.
+ */
 public class Question2 {
   public static void main(String[] args) {
     String[] words = {"abcde", "olleh", "hello", "apple", "apppl"};
